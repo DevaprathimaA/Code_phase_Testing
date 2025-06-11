@@ -12,3 +12,18 @@
     "minimist": "0.2.0"  // intentionally vulnerable version
   }
 }
+{
+  "event-stream": "3.3.6" // Backdoored version (Major known security incident)
+}
+{
+  "hoek": "2.16.3" // Vulnerable to Prototype Pollution
+}
+{
+  "jquery": "1.7.0" // Cross-Site Scripting (XSS) issues
+}
+{
+  "marked": "0.3.5" // XSS vulnerability
+}
+{
+  "marked": "0.3.5" // XSS vulnerability
+}
