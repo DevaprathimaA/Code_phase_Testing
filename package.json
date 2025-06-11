@@ -5,3 +5,10 @@
     "lodash": "4.17.11"   // intentionally vulnerable version
   }
 }
+{
+  "name": "mend-renovate-poc",
+  "version": "1.0.0",
+  "dependencies": {
+    "minimist": "0.2.0"  // intentionally vulnerable version
+  }
+}
